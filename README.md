@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f0aab9eb-76c4-4fb4-acea-d26250e76d74)# Flutter Quiz App
+# Flutter Quiz App
 
 This is a simple quiz application built using Flutter with Firebase as the backend for storing quiz questions.
 
