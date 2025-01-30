@@ -13,5 +13,4 @@ This is a simple quiz application built using Flutter with Firebase as the backe
 <img src="https://github.com/user-attachments/assets/ed9b0ec6-ce34-444c-b9da-9b3a646b35f0" width="400">
 <img src="https://github.com/user-attachments/assets/7d9a9f0c-7795-4f1e-a5bf-8c3bc10195ed" width="400">
 <img src="https://github.com/user-attachments/assets/74d8a862-b91c-4439-b029-70c44cffc87e" width="400">
-<img src="https://github.com/user-attachments/assets/08120691-3668-42fc-a9d5-16c88609d0f2" width="400">
 
